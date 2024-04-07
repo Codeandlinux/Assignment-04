@@ -1,0 +1,93 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#head {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+#video {
+    width: 70%;
+    position: relative;
+    left: 15%;
+}
+
+#Thead {
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    width: 100%;
+}
+
+#pic {
+    background-color: blue;
+    color: black;
+    text-align: center;
+}
+
+#bme {
+    background-color: black;
+}
+
+#me {
+    width: 30%;
+    margin-left: 37%;
+}
+
+#audio {
+    background-color: blue;
+    color: black;
+    text-align: center;
+}
+
+#audiof {
+    margin-left: 40%;
+}
+
+#baudio {
+    background-color: aquamarine;
+}
+
+
+#frame {
+    background-color: blue;
+    color: black;
+    text-align: center;
+}
+
+#sm {
+    background-color: blue;
+    color: black;
+    text-align: center;
+}
+
+#sme {
+    background-color: lightblue;
+}
+
+.link {
+    margin-left: 45%;
+}
+
+#form {
+    background-color: blue;
+    color: black;
+    text-align: center;
+}
+
+#Rform {
+    background-color: slategray;
+    text-align: center;
+}
+
+.input {
+    margin-left: 10%;
+}
+
+.inputt{
+    margin-left: 17%;
+}
